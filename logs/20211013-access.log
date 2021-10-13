@@ -1,0 +1,130 @@
+2021/10/13上午9:55:28 ::1 POST /uatpwxweb/UserInfoQry.do 200 - - 1017.218 ms
+2021/10/13上午10:05:34 ::1 POST - /uatpwxweb/UserInfoQry.do 200 - - - 1667.278 ms
+2021/10/13上午10:07:39 ::1 PostmanRuntime/7.28.4 POST - /uatpwxweb/UserInfoQry.do 200 - - - 1859.767 ms
+2021/10/13上午10:10:39 1.1 ::1 PostmanRuntime/7.28.4 POST - /uatpwxweb/UserInfoQry.do 200 - - - 796.001 ms
+2021/10/13上午10:14:09 1.1 ::1 PostmanRuntime/7.28.4 POST - /uatpwxweb/UserInfoQry.do - 200 - - - 810.733 ms
+2021/10/13上午10:15:50 1.1 ::1 PostmanRuntime/7.28.4 POST - - /uatpwxweb/UserInfoQry.do 200 - - - 716.874 ms
+2021/10/13上午10:17:00 1.1 ::1 PostmanRuntime/7.28.4 POST -请求头 - /uatpwxweb/UserInfoQry.do 200 - - - 785.018 ms
+2021/10/13上午10:18:58 - 1.1 ::1 PostmanRuntime/7.28.4 POST - - /uatpwxweb/UserInfoQry.do 200 - - - 1076.352 ms
+2021/10/13上午10:19:19 http://localhost:63342/ 1.1 ::1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 OPTIONS - - /uatpwxweb/UserInfoQry.do 200 - - - 0.188 ms
+2021/10/13上午10:19:20 http://localhost:63342/ 1.1 ::1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 POST - - /uatpwxweb/UserInfoQry.do 200 - - - 681.549 ms
+2021/10/13上午10:21:18 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.47 OPTIONS - - 200 - - - 0.481 ms
+2021/10/13上午10:21:18 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.47 POST - - 200 - - - 257.694 ms
+2021/10/13上午10:24:02 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 213.869 ms
+2021/10/13上午10:27:50 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 244.218 ms
+2021/10/13上午10:28:24 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 574.901 ms
+2021/10/13上午10:33:37 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 256.994 ms
+2021/10/13上午10:34:25 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 191.468 ms
+2021/10/13上午10:34:42 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 251.958 ms
+2021/10/13上午10:37:47 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 320.851 ms
+2021/10/13上午10:38:22 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 175.065 ms
+2021/10/13上午10:39:39 http://localhost:63342/ /uatpwxweb/UserInfoQry.do 1.1 ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 213.951 ms
+2021/10/13上午10:41:19 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 192.446 ms
+2021/10/13上午10:47:34 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 231.506 ms
+2021/10/13上午10:47:52 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 404 - - - - 151.518 ms
+2021/10/13上午10:48:21 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 287.076 ms
+2021/10/13上午10:48:35 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 247.792 ms
+2021/10/13上午10:50:46 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 199.159 ms
+2021/10/13上午10:52:19 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 219.037 ms
+2021/10/13上午10:52:33 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 233.099 ms
+2021/10/13上午10:53:12 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 152.664 ms
+2021/10/13上午10:54:29 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 217.112 ms
+2021/10/13上午10:55:57 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 555.329 ms HTTP/1.1 200 OK
+x-powered-by: Servlet/3.0
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Origin: http://localhost:63342
+Access-Control-Allow-Headers: X-Requested-With,Content-Type
+Access-Control-Allow-Methods: PUT,POST,GET,DELETE,OPTIONS
+content-type: application/json;charset=UTF-8
+content-encoding: gzip
+server: nginx
+date: Wed, 13 Oct 2021 02:53:32 GMT
+transfer-encoding: chunked
+connection: close
+pragma: No-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+cache-control: no-cache
+content-language: zh-CN
+set-cookie: JSESSIONID=0000nfqYOH9ELoWlqO2Myz3na6z:-1; Path=/; HttpOnly
+
+
+2021/10/13上午10:58:00 1.1 http://localhost:63342/ /uatpwxweb/UserInfoQry.do ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 235.322 ms HTTP/1.1 200 OK
+x-powered-by: Servlet/3.0
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Origin: http://localhost:63342
+Access-Control-Allow-Headers: X-Requested-With,Content-Type
+Access-Control-Allow-Methods: PUT,POST,GET,DELETE,OPTIONS
+content-type: application/json;charset=UTF-8
+content-encoding: gzip
+server: nginx
+date: Wed, 13 Oct 2021 02:55:35 GMT
+transfer-encoding: chunked
+connection: close
+pragma: No-cache
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+cache-control: no-cache
+content-language: zh-CN
+set-cookie: JSESSIONID=0000YLPW7EQZwmVuikoOnoHuAD7:-1; Path=/; HttpOnly
+
+
+2021/10/13上午11:09:26 1.1 http://localhost:63342/ /api/queryEvent.php ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 OPTIONS - - 200 - - - - 0.495 ms HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Origin: http://localhost:63342
+Access-Control-Allow-Headers: X-Requested-With,Content-Type
+Access-Control-Allow-Methods: PUT,POST,GET,DELETE,OPTIONS
+Content-Type: application/json; charset=utf-8
+Date: Wed, 13 Oct 2021 03:09:26 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Length: 0
+
+
+2021/10/13上午11:09:26 1.1 http://localhost:63342/ /api/queryEvent.php ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 467.048 ms HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Origin: http://localhost:63342
+Access-Control-Allow-Headers: X-Requested-With,Content-Type
+Access-Control-Allow-Methods: PUT,POST,GET,DELETE,OPTIONS
+content-type: application/json;charset=utf-8
+date: Wed, 13 Oct 2021 03:09:06 GMT
+transfer-encoding: chunked
+connection: close
+set-cookie: aliyungf_tc=1a4db961b2eea60edb3724d852bb2ba175ffcb4fd8e7971c09961c93fec99331; Path=/; HttpOnly
+etag: 2792793093af246537d6979105ccc4ed
+
+
+2021/10/13上午11:09:47 1.1 http://localhost:63342/ /api/queryEvent.php ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 378.843 ms HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Origin: http://localhost:63342
+Access-Control-Allow-Headers: X-Requested-With,Content-Type
+Access-Control-Allow-Methods: PUT,POST,GET,DELETE,OPTIONS
+content-type: application/json;charset=utf-8
+date: Wed, 13 Oct 2021 03:09:27 GMT
+transfer-encoding: chunked
+connection: close
+set-cookie: aliyungf_tc=6b9c927094a377b10359a758744bd25390e249678046fd11d0cec25669b83040; Path=/; HttpOnly
+etag: 2792793093af246537d6979105ccc4ed
+
+
+2021/10/13上午11:10:41 1.1 http://localhost:63342/ /api/queryEvent.php ::1 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/94.0.4606.81 POST - - 200 - - - - 543.038 ms HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Origin: http://localhost:63342
+Access-Control-Allow-Headers: X-Requested-With,Content-Type
+Access-Control-Allow-Methods: PUT,POST,GET,DELETE,OPTIONS
+content-type: application/json;charset=utf-8
+date: Wed, 13 Oct 2021 03:10:21 GMT
+transfer-encoding: chunked
+connection: close
+set-cookie: aliyungf_tc=b5e71e647879da8ae2e85773463560d376e2578775a189b1bb8dc7bfca13938e; Path=/; HttpOnly
+etag: e468a15c3a484123d42ce5e6e2d4e31a
+
+
