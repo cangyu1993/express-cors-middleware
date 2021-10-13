@@ -128,3 +128,18 @@ set-cookie: aliyungf_tc=b5e71e647879da8ae2e85773463560d376e2578775a189b1bb8dc7bf
 etag: e468a15c3a484123d42ce5e6e2d4e31a
 
 
+2021/10/13上午11:28:24 1.1 - /api/queryEvent.php?key=2e193eb84d643413253f9e41876fe763&date=10/13 ::1 PostmanRuntime/7.28.4 GET - - 200 - - - - 565.149 ms HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With,Content-Type
+Access-Control-Allow-Methods: PUT,POST,GET,DELETE,OPTIONS
+content-type: application/json;charset=utf-8
+date: Wed, 13 Oct 2021 03:28:03 GMT
+transfer-encoding: chunked
+connection: close
+set-cookie: aliyungf_tc=2f0e5f22bd2b12cedbe768703f22ddacb94f4cc9b65dab9509fe3b03389bfb1a; Path=/; HttpOnly
+etag: 1c240e99837c678475a95f689a2de833
+
+
